@@ -1,11 +1,11 @@
 insert into student
-values(1,'Nigar', 'Safarova');
+values(1,'Safarova', 'Nigar');
 
 insert into student
-values(2,'Nargiz', 'Tahmazli');
+values(2,'Tahmazli', 'Nargiz');
 
 insert into student
-values(3,'Emil', 'Suleymanli');
+values(3,'Suleymanli', 'Emil');
 
 insert into student
-values(4,'Sofia', 'Sayadzada');
+values(4,'Sayadzada', 'Sofia');
