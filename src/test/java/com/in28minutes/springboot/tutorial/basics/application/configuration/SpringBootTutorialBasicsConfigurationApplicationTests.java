@@ -1,4 +1,4 @@
-package com.in28minutes.springboot;
+package com.in28minutes.springboot.tutorial.basics.application.configuration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class StudentServicesApplicationTests {
+public class SpringBootTutorialBasicsConfigurationApplicationTests {
 
 	@Test
 	public void contextLoads() {
