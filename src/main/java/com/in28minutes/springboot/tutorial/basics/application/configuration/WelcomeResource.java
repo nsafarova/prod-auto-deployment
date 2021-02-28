@@ -15,7 +15,7 @@ public class WelcomeResource {
 	@Value("${welcome.message}")
 	private String welcomeMessage;
 
-	@GetMapping("/")
+	@GetMapping("/welcome")
 	public String retrieveWelcomeMessage() {
 		// Complex Method
 		return welcomeMessage;
