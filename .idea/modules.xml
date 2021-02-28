@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/student-services-security.iml" filepath="$PROJECT_DIR$/student-services-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tutorial-basics-configuration.iml" filepath="$PROJECT_DIR$/spring-boot-tutorial-basics-configuration.iml" />
     </modules>
   </component>
 </project>
